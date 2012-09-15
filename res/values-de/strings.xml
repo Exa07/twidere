@@ -192,7 +192,7 @@
   <string name="outbox">Ausgang</string>
   <string name="load_images">Bilder laden</string>
   <string name="stop_service_after_closed">Dienst nach Schliessen von Twidere beenden.</string>
-  <string name="stop_service_after_closed_summary">I weiß nicht weshalb man das aktivieren wollen würde, aber falls irgendwelche Probleme danach auftauchen, denke man dran, dass man ganz allein Schuld daran hat.</string>
+  <string name="stop_service_after_closed_summary"> </string>
   <string name="other_settings">Weitere Einstellungen</string>
   <string name="refresh_and_notifications">Aktualisierung &amp; Benachrichtigungen</string>
   <string name="auto_refresh">Automatisch aktualisieren</string>
